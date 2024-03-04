@@ -1,0 +1,7 @@
+# You will write a program with a welcome message of your choosing 
+# The program should take as input the total bill, how many people will be splitting the bill and what percentage tip you'd like to leave. 
+# The program should output the amount each person should pay. 
+# the input cursor should be on a new line
+# This will test your knowledge of working with numbers, converting from one data type to another. 
+
+print("Welcome to the tip calculator!")
